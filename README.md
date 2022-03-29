@@ -64,3 +64,11 @@ A continuación se listarán los proyectos activos, qué ramas involucra y quié
 - Responsable: Milagros Corredera (a modificar)
 - Equipo: Cristian Hernandez, Candela Sanó, Candela Jazhal, Camila Lange
 
+## ¿Cuáles son los canales de comunicación?
+Los canales de comunicación principales que utilizamos en el área de diseño son Discord y la Intranet.
+
+En el caso de **Discord**, lo utilizamos para la comunicación más diaria e informal: hacer reuniones, correcciones, avisos y mensajes cotidianos.
+
+En el caso de la **Intranet**, es utilizado para la comunicación más institucional y formal: presentaciones de proyectos, bienvenida al área, invitaciones a reuniones, envío de material, consultas formales y comunicaciones con otras áreas. 
+
+Además de estos dos canales, cada equipo puede tener grupos de **WhatsApp** donde tendrán una comunicación más directa y fluida. Otra plataforma que solemos utilizar es **Meet (o JitSi)** para reuniones donde sea necesario utilizar cámaras o se tenga problemas con Discord en cuanto a conexión.
