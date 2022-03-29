@@ -1,6 +1,8 @@
 # Diseno
-## Repositorio del Departamento de Relaciones Públicas
+## Repositorio del Área de Diseño
 El área de diseño de InkuA tiene como objetivo principal conseguir piezas visuales eficaces, es decir, que cumpla con los requerimientos técnicos y gráficos que se esperan. Es responsable de determinar y aplicar los criterios gráficos de las marcas con las cuales se trabaja, generando piezas de comunicación que logren cumplir con los objetivos que se buscan, y siempre buscando mejorar la comunicación entre las partes.
+
+Al ser un espacio en constante cambio y evolución, cualquier aporte, sugerencia o comentario será bienvenido.
 
 ## ¿Qué actividades realizamos?
 Algunas de las actividades que se realizan en el área son:
@@ -12,6 +14,13 @@ Algunas de las actividades que se realizan en el área son:
 * Edición de fotos / generación de ilustraciones simples
 
 Cabe destacar que muchas de estas actividades se realizan en conjunto con otras áreas: marketing, comunicación, sistemas, entre otras.
+
+## Buenas prácticas
+- Ingresar a la Intranet/Discord y revisar las actualizaciones/mensajes al menos una vez cada dos días.
+- Realizar un reporte semanal con las tareas desempeñadas a lo largo de la semana.
+- Participar de las reuniones de proyecto. En el caso de no poder, avisar al responsable, presentar el material y solicitar que se grabe la reunión si es necesario.
+- Participar de las reuniones de InkuA (siempre que se pueda).
+- Participar en las encuestas realizadas en la Intranet.
 
 ## ¿Cuáles son los objetivos que tenemos que alcanzar?
 - **Conseguir una comunicación eficaz**: para esto es necesario conocer los lineamientos básicos de la comunicación visual y verbal. Con estas bases y la experiencia adquirida podremos crear diseño eficaces a la hora de transmitir los mensajes.
