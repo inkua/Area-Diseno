@@ -1,5 +1,5 @@
-# Diseno
-## Repositorio del Área de Diseño
+# Repositorio del Área de Diseño
+
 El área de diseño de InkuA tiene como objetivo principal conseguir piezas visuales eficaces, es decir, que cumpla con los requerimientos técnicos y gráficos que se esperan. Es responsable de determinar y aplicar los criterios gráficos de las marcas con las cuales se trabaja, generando piezas de comunicación que logren cumplir con los objetivos que se buscan, y siempre buscando mejorar la comunicación entre las partes.
 
 Al ser un espacio en constante cambio y evolución, cualquier aporte, sugerencia o comentario será bienvenido.
