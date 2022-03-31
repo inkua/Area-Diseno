@@ -81,3 +81,17 @@ En el caso de **Discord**, lo utilizamos para la comunicación más diaria e inf
 En el caso de la **Intranet**, es utilizado para la comunicación más institucional y formal: presentaciones de proyectos, bienvenida al área, invitaciones a reuniones, envío de material, consultas formales y comunicaciones con otras áreas. 
 
 Además de estos dos canales, cada equipo puede tener grupos de **WhatsApp** donde tendrán una comunicación más directa y fluida. Otra plataforma que solemos utilizar es **Meet (o JitSi)** para reuniones donde sea necesario utilizar cámaras o se tenga problemas con Discord en cuanto a conexión.
+
+**LINKS**
+- Canal de Discord
+- Canal de chat de InkuA
+
+## ¿Cómo son las correcciones?
+
+
+## Links a proyectos
+Acá encontrarán links a otros repositorios/carpetas de proyectos activos:
+- Social Grow
+- InkuA
+- Drive de Diseño
+
